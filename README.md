@@ -6,11 +6,12 @@ The library is written in CoffeeScript, but doesn't necessarily require CoffeeSc
 
 ## Todo
 
-* Rethink name? (rip: rest in peace, api-cooker, nappy, httparty for js)
 * Basic http authentication and other headers
 * Make it work with direct requests for backend usage 
-# better testing
+# better testing and more examples
+# better cakefile
 # documentation with docco
+
 
 ## Contributing
 
